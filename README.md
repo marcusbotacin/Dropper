@@ -7,6 +7,7 @@ Created for educational purposes. Use at your own risk!
 ## Available Material
 
 * The *filesystem.exe* directory hosts a project for an EXE binary that drops tha payload to the filesystem and creates the process from it.
+* The *bin.samples* directory hosts sample binaries for testing purposes.
 
 ## Usage
 
