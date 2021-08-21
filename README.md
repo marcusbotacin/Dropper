@@ -1,9 +1,21 @@
 # Dropper
 
-Embed an executable as a PE resource, drops and launches it in runtime.
+Multiple ways to embed an executable as a PE resource, drop, and launch it in runtime.
 
 Created for educational purposes. Use at your own risk!
 
+## Available Material
+
+* The *filesystem.exe* directory hosts a project for an EXE binary that drops tha payload to the filesystem and creates the process from it.
+
+## Usage
+
+This dropper has been used in my (our) participation in the MLSEC competition [link here](https://mlsec.io/)
+
+The *Adversarial Malware in Machine Learning Detectors: Our MLSEC 2020’s SECRETs* blog post describing our 2020's participation is available [here](https://secret.inf.ufpr.br/2020/09/29/adversarial-malware-in-machine-learning-detectors-our-mlsec-2020-secrets/)
+
 ## Publications
 
-The article *Shallow Security: on the Creation of Adversarial Variants toEvade Machine Learning-Based Malware Detectors* published in the *Reversing and Offensive-oriented Trends Symposium 2019 (ROOTS)* made use of this dropper. [Check Here](paper/roots_shallow.pdf). 
+The article *Shallow Security: on the Creation of Adversarial Variants to Evade Machine Learning-Based Malware Detectors* published in the *Reversing and Offensive-oriented Trends Symposium 2019 (ROOTS)* made use of this dropper. [Check Here](paper/roots_shallow.pdf). 
+
+The article *No Need to Teach New Tricks to Old Malware: Winning an Evasion Challenge with XOR-based Adversarial Samples* published in the *Reversing and Offensive-oriented Trends Symposium 2020 (ROOTS)* made use of this dropper. [Check Here](paper/roots_mlsec20.pdf). 
