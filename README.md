@@ -8,6 +8,7 @@ Created for educational purposes. Use at your own risk!
 
 * The *filesystem.exe* directory hosts a project for an EXE binary that drops tha payload to the filesystem and creates the process from it.
 * The *bin.samples* directory hosts sample binaries for testing purposes.
+* The *utils* directory hosts helper functions.
 
 ## Usage
 
